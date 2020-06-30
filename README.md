@@ -1,2 +1,6 @@
 # Password
-VerilogHDL password
+
+FPGA project 
+
+EGO1 Development Board
+
